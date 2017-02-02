@@ -14,7 +14,7 @@ It's important you provide as many details as possible in case the student reque
 
 # Ban Reasons
 
-You MUST only issue bans for [Code of Conduct](https://srnd.org/code-of-conduct) or [Rules](https://codeday.org/rules) violations.
+You MUST only issue bans for SCOC and CDER violations.
 
 You MUST NOT ban students for non-Conduct or Rules violations without prior clearance from StudentRND Policy Staff.
 
