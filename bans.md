@@ -1,6 +1,8 @@
 In some cases you may need to ban attendees from attending future events. 
 
-Only Event Managers, Regional Managers, Code Evangelists are authorized to enter bans, and only for their own events. StudentRND Policy Staff will review all bans periodically and may override them, however you should strive to get things right from the start.
+Only Event Managers, Regional Managers, Code Evangelists are authorized to enter bans, and only for their own events. Other staff MUST NOT enter bans.
+
+StudentRND Policy Staff will review all bans periodically and may override them, however you should strive to get things right from the start.
 
 # How to Enter Bans
 
@@ -18,9 +20,9 @@ You MUST NOT ban students for non-Conduct or Rules violations without prior clea
 
 # Common Bans and Suggested Durations
 
-Ban duration is at your discretion, however we recommend following guidelines unless the violation is unusual to help ensure bans are applied consistently and reduce the chance that bans need to be modified on review.
+Ban duration is at your discretion, however we RECOMMEND following these guidelines unless the violation is unusual to help ensure bans are applied consistently and reduce the chance that bans need to be modified on review.
 
-**The following suggestions are for middle school and high school students only. Most bans of college-age students should be permanent,** because college students should generally know better, and are less likely to mature and "grow out of it."
+**The following suggestions are for middle school and high school students only. Bans of college-age students SHOULD be permanent,** because college students should generally know better, and are less likely to mature and "grow out of it."
 
 * Harassment -- Suggested one-year ban, e.g.
   * Making disparaging remarks about another students project or coding abilities \(if a warning was provided first\).
