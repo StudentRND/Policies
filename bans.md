@@ -1,10 +1,26 @@
-In some cases you may need to ban attendees from attending future events. Bans are processed through Clear, and will prevent attendees from registering for future events with the same email for the period of the ban.
+In some cases you may need to ban attendees from attending future events. 
+
+Only Event Managers, Regional Managers, Code Evangelists are authorized to enter bans, and only for their own events. StudentRND Policy Staff will review all bans periodically and may override them, however you should strive to get things right from the start.
+
+# How to Enter Bans
+
+Bans are processed through Clear, and will prevent attendees from registering for future events with the same email for the period of the ban.
 
 When entering a ban, you'll need to choose a ban reason \(which will be displayed to the student if they try to register\) and provide additional details, which will only be visible to event staff. It's important you provide as many details as possible in case the student requests review later.
 
-Bans should generally only be processed for [Code of Conduct](https://srnd.org/code-of-conduct) or [Rules](https://codeday.org/rules) violations. Below are some common reasons for bans, and suggested durations.
+# Ban Reasons
 
-* Harassment -- Suggested one-year ban for high school students, forever ban for college students \(who are less likely to "grow out of it"\). e.g.
+You may only issue bans for [Code of Conduct](https://srnd.org/code-of-conduct) or [Rules](https://codeday.org/rules) violations.
+
+Students _can_ be banned for other reasons, but you must clear it with StudentRND Policy Staff first, since it's important that bans are well-founded and applied equally. \(If possible, you should clear this before even removing the attendee.\)
+
+# Common Bans and Suggested Durations
+
+Ban duration is at your discretion, however we recommend following guidelines unless the violation is unusual to help ensure bans are applied consistently and reduce the chance that bans need to be modified on review.
+
+**The following suggestions are for middle school and high school students only. Most bans of college-age students should be permanent,** because college students should generally know better, and are less likely to mature and "grow out of it."
+
+* Harassment -- Suggested one-year ban, e.g.
   * Making disparaging remarks about another students project or coding abilities \(if a warning was provided first\).
   * "Picking on" another student.
   * Obvious, more extreme harassment.
@@ -24,8 +40,3 @@ Bans should generally only be processed for [Code of Conduct](https://srnd.org/c
   * Too Young -- 1-2 years, until they should be old enough to reasonably attend
   * Too Old -- Forever
 * Recruiter -- Forever
- 
-
-## Non-Standard Bans
-
-We _can_ ban students for other reasons, but please pre-clear it with StudentRND staff first, since it's important that bans are well-founded and applied equally. \(If possible, you should clear this before even removing the attendee.\)
