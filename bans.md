@@ -6,13 +6,15 @@ Only Event Managers, Regional Managers, Code Evangelists are authorized to enter
 
 Bans are processed through Clear, and will prevent attendees from registering for future events with the same email for the period of the ban.
 
-When entering a ban, you'll need to choose a ban reason \(which will be displayed to the student if they try to register\) and provide additional details, which will only be visible to event staff. It's important you provide as many details as possible in case the student requests review later.
+When entering a ban, you'll need to choose a ban reason \(which will be displayed to the student if they try to register\) and provide additional details, which will only be visible to event staff.
+
+It's important you provide as many details as possible in case the student requests review later.
 
 # Ban Reasons
 
-You may only issue bans for [Code of Conduct](https://srnd.org/code-of-conduct) or [Rules](https://codeday.org/rules) violations.
+You MUST only issue bans for [Code of Conduct](https://srnd.org/code-of-conduct) or [Rules](https://codeday.org/rules) violations.
 
-Students _can_ be banned for other reasons, but you must clear it with StudentRND Policy Staff first, since it's important that bans are well-founded and applied equally. \(If possible, you should clear this before even removing the attendee.\)
+You MUST NOT ban students for non-Conduct or Rules violations without prior clearance from StudentRND Policy Staff.
 
 # Common Bans and Suggested Durations
 
