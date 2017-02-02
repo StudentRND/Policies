@@ -12,6 +12,12 @@ Several terms, used in uppercase, have the meanings defined in RFC 2119:
 - **SHOULD NOT or NOT RECOMMENDED:** There may exist valid reasons in particular circumstances when the particular behavior is acceptable or even useful, but the full implications should be understood and the case carefully weighed before implementing any behavior described with this label.
 - **MAY or OPTIONAL:** Truly optional, only a suggestion.
 
+The following terms refer to specific sets of rules:
+
+- **SCOC:** [StudentRND Code of Conduct,](https://srnd.org/conduct) applicable to all community members. Some aspects apply outside of CodeDay.
+- **CDER:** [CodeDay Event Rules,](https://codeday.org/rules) applicable to all CodeDay attendees.
+- **CDWR:** [CodeDay Award Rules,](https://codeday.org/rules) applicable to teams competing for "Top Overall," "Best App," and "Best Game" at CodeDay. (Violations of these rules SHOULD NOT lead to punishment other than disqualification from those awards.)
+
 # StudentRND Policy Staff
 
 Except as authorized below, any deviation from the published policies MUST first be reviewed by a member of the StudentRND Policy Team, which consists of the following people listed below:

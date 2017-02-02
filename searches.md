@@ -5,11 +5,11 @@ As part of the CodeDay event rules (CDER6), participants agree to searches under
 
 # When to Conduct a Search
 
-You should only conduct a search when you have a reasonable suspicion that an attendee has a stolen item.
+You MUST only conduct a search when you have a reasonable suspicion that an attendee has a stolen item.
 
-Despite our ability to do so, you may not conduct searches for drugs or alcohol, you should should wait to see the drugs or alcohol in the open.
+Despite our ability to do so, you MUST NOT conduct searches for drugs or alcohol, you SHOULD wait to see the drugs or alcohol in the open.
 
-**Never conduct a search if you think a student is concieling a weapon.
+**You MUST NOT conduct a search if you think a student is concealing a weapon. If you believe the student is a danger, you MUST call 911 and let the police deal with it.**
 
 # Approval for Searches
 
