@@ -1,3 +1,3 @@
-# My Awesome Book
+# StudentRND Policies
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This document describes internal StudentRND policies for dealing with issues. Staff, volunteers, and mentors are required to follow these policies, however these policies do not serve as legal agreements for the public.
