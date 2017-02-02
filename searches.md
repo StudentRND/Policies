@@ -5,7 +5,11 @@ As part of the CodeDay event rules (CDER6), participants agree to searches under
 
 # When to Conduct a Search
 
-You MUST only conduct a search when you have a reasonable suspicion that an attendee has a stolen item.
+You MUST only conduct a search when you have a reasonable suspicion that (a) an attendee has a stolen item, and (b) a search of the attendee's belongings will turn up the stolen item.
+
+You MUST NOT conduct a "blanket" search of all attendees, or of a group of attendees.
+
+## Searches Only for Stolen Property
 
 Despite our ability to do so, you MUST NOT conduct searches for drugs or alcohol, you SHOULD wait to see the drugs or alcohol in the open.
 
@@ -13,10 +17,12 @@ Despite our ability to do so, you MUST NOT conduct searches for drugs or alcohol
 
 # Approval for Searches
 
-Approval for searches 
+Pre-approval for searches MUST be obtained from StudentRND Policy Staff prior to conducting the search. You SHOULD request this approval before talking to the student.
+
+The Policy Staff will request an explanation of your case for reasonable suspicion and make a decision.
 
 # Procedure for Searches
 
-Only Code Evangelists are authorized to conduct searches.
+Searches MUST be conducted by a Code Evangelist. Other event staff MUST NOT conduct searches.
 
-Code Evangelists should follow normal procedures for resolving conflicts in accordance with their training. Attendees may not "choose to leave," however you should also not attempt to restrain an attendee who tries to leave anyway.
+Code Evangelists SHOULD follow normal procedures for resolving conflicts in accordance with their training. Attendees may not "choose to leave," however staff MUST NOT not attempt to restrain an attendee who tries to leave anyway.
