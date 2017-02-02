@@ -11,3 +11,14 @@ Several terms, used in uppercase, have the meanings defined in RFC 2119:
 - **SHOULD or RECOMMENDED:** There may exist valid reasons in particular circumstances to ignore a particular item, but the full implications must be understood and carefully weighed before choosing a different course.
 - **SHOULD NOT or NOT RECOMMENDED:** There may exist valid reasons in particular circumstances when the particular behavior is acceptable or even useful, but the full implications should be understood and the case carefully weighed before implementing any behavior described with this label.
 - **MAY or OPTIONAL:** Truly optional, only a suggestion.
+
+# StudentRND Policy Staff
+
+Except as authorized below, any deviation from the published policies MUST first be reviewed by a member of the StudentRND Policy Team, which consists of the following people listed below:
+
+- Tyler Menezes, [tylermenezes@srnd.org](mailto:tylermenezes@srnd.org)
+- Zaq Wiedmann, [zaq@srnd.org](mailto:zaq@srnd.org)
+
+# Life-or-Death Exception
+
+In cases of life-or-death, any deviation from these policies to protect life is authorized and SHOULD be taken.
