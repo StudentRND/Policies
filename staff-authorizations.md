@@ -16,7 +16,7 @@ Code Evangelists SHOULD, if possible, be assigned to talk with students about vi
 
 ## StudentRND Policy Staff
 
-A set group of StudentRND staff able to authorize deviations from MUST/MUST NOT policies. Additionally, all enforcement actions MUST be reported to Policy Staff as soon as reasonably possible.
+A set group of StudentRND staff able to authorize deviations from MUST/MUST NOT policies.
 
 # Rules Apply to All Staff
 

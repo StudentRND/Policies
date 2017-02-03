@@ -11,6 +11,9 @@ Staff MUST NOT allow excessive gaming to proceed without some warnings.
 
 # Torrents and Illegal Downloads
 
+> **SCOC3**
+> At StudentRND events, keep things safe and legal.
+
 When illegal downloading is observed by staff, the participant MUST be warned to stop illegal downloads. Staff SHOULD regularly walk by the offender's computer throughout the rest of the event to look for signs of illegal downloads.
 
 Repeated offenders MUST be removed from the event.
@@ -24,6 +27,19 @@ Students with a messy workspace SHOULD be encouraged to clean it up once the mes
 
 Students with repeated violations MAY be removed from the event.
 
+# Disruptive Attendees
+
+
+
 # Alcohol and Drugs
 
-> **SCOC3b. Abstain from using or being under the influence of alcohol, marijuana, illicit substances, and recreational drugs.**
+> **SCOC3b**
+> Abstain from using or being under the influence of alcohol, marijuana, illicit substances, and recreational drugs.
+
+Attendees observed by Staff using alcohol or drugs at CodeDay MUST be removed and SHOULD be banned under the guidelines.
+
+You SHOULD talk to attendees reported by non-staff, or who seem under the influence, but MUST NOT take any enforcement action unless they admit fault, or by exception from the Policy team.
+
+For the purposes of this policy, tobacco is not considered a drug, as long as the student is of legal age, and smokes outside.
+
+Marijuana and alcohol _do_ fall under this policy, even where legal and where the student is of-age. The only exception is where the student has a license for medical use.
