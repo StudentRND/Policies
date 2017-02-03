@@ -4,11 +4,11 @@
 
 Non-staff have no enforcement powers with regards to any StudentRND Policies. For the purposes of these rules, Mentors, Judges, Sponsors, Press, and VIPs are all considered non-staff.
 
-## Level 1 Staff
+## General Staff
 
 Teachers, Volunteers, and other Event Staff SHOULD look for policy violations, but MUST NOT enforce policy except in urgent situations.
 
-## Level 2 Staff
+## Senior Staff
 
 Regional Managers, Event Managers, and Code Evangelists MUST look for policy violations, and have full enforcement permissions for documented policies except where otherwise limited.
 

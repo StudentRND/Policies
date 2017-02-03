@@ -1,4 +1,4 @@
-These steps SHOULD be conducted by a Regional Manager, Event Manager, or Code Evangelist if possible.
+These steps SHOULD be conducted by a Regional Manager, Event Manager, or Code Evangelist if available. 
 
 # Finding Out What Happened
 
