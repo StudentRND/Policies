@@ -1,8 +1,8 @@
 # Enforcement Permission Levels
 
-## Attendees
+## Non-Staff
 
-Attendees have no enforcement powers with regards to any StudentRND Policies. For the purposes of these rules, Mentors, Judges, Sponsors, Press, and VIPs are all considered attendees.
+Non-staff have no enforcement powers with regards to any StudentRND Policies. For the purposes of these rules, Mentors, Judges, Sponsors, Press, and VIPs are all considered non-staff.
 
 ## Level 1 Staff
 
