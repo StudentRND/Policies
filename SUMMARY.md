@@ -7,6 +7,6 @@
   * [Bans](enforcement/bans.md)
 * [Violations](violations/README.md)
   * [Nuisances](violations/nuisances.md)
-  * Ineligible Attendees
+  * [Ineligible Attendees](violations/ineligible-attendees.md)
   * [Weapons](violations/weapons.md)
 

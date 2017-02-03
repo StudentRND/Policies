@@ -1,3 +1,12 @@
+# Mess
+
+> **CDER5. Do Not Make a Mess, and Clean Up After Yourself!**
+> Don't make an unnecessary mess, and clean up your space before you leave.
+
+Students with a messy workspace SHOULD be encouraged to clean it up once the mess is noticed.
+
+Students with repeated violations MAY be removed from the event.
+
 # Gaming
 
 > **CDER7. No Excessive Video Gaming**
@@ -9,24 +18,6 @@ On observation of further gaming, staff SHOULD provide increasingly severe warni
 
 Staff MUST NOT allow excessive gaming to proceed without some warnings.
 
-# Torrents and Illegal Downloads
-
-> **SCOC3**
-> At StudentRND events, keep things safe and legal.
-
-When illegal downloading is observed by staff, the participant MUST be warned to stop illegal downloads. Staff SHOULD regularly walk by the offender's computer throughout the rest of the event to look for signs of illegal downloads.
-
-Repeated offenders MUST be removed from the event.
-
-# Mess
-
-> **CDER5. Do Not Make a Mess, and Clean Up After Yourself!**
-> Don't make an unnecessary mess, and clean up your space before you leave.
-
-Students with a messy workspace SHOULD be encouraged to clean it up once the mess is noticed.
-
-Students with repeated violations MAY be removed from the event.
-
 # Disruptive Attendees
 
 > **CDER8. Please Don't Be Disruptive**
@@ -35,6 +26,24 @@ Students with repeated violations MAY be removed from the event.
 Attendees who are actively disruptive to others SHOULD be asked to calm down when the disruptive activity is first noticed. After three warnings, the attendee MAY be removed.
 
 Students who are disruptive as the result of a disability, where the disruption is not dangerous to others, MUST NOT be asked to leave, but SHOULD be moved to an area of the venue where they will not disrupt other students, and a staff member SHOULD be assigned to check on them regularly.
+
+# Teams Which Refuse To Participate
+
+> **CDER9. Teams Must Pitch**
+> CodeDay is a community event. Teams formed before the event must pitch their idea during the pitches, and must be open to new members joining their team. Violating teams will be disqualified from all awards, and may be asked to leave. Please participate in the community!
+
+Pre-formed teams attending the event which refuse to pitch or accept outside team members SHOULD be warned, and upon continuing to refuse, SHOULD be disqualified from all awards.
+
+Teams MUST NOT be removed from the event for refusing to participate in the community, however.
+
+# Torrents and Illegal Downloads
+
+> **SCOC3**
+> At StudentRND events, keep things safe and legal.
+
+When illegal downloading is observed by staff, the participant MUST be warned to stop illegal downloads. Staff SHOULD regularly walk by the offender's computer throughout the rest of the event to look for signs of illegal downloads.
+
+Repeated offenders MUST be removed from the event.
 
 # Alcohol and Drugs
 
