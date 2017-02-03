@@ -60,3 +60,6 @@ Parents MUST be asked to leave after the conclusion of the intro workshop, and M
 
 Parents and family SHOULD be admitted again after 9am on Sunday for presentations.
 
+# Venue Employees
+
+Event Staff MUST check with the Event Manager or Regional Manager as to which, if any, venue employees should be admitted. Because they are not background-checked, venue employees SHOULD NOT be admitted if unnecessary.
