@@ -3,7 +3,6 @@
 * [Introduction](README.md)
 * [Incident Response](incident-response.md)
 * [Enforcement](enforcement/README.md)
-  * [Incident Response](incident-response.md)
   * [Removing Students](enforcement/removing.md)
   * [Searches](enforcement/searches.md)
   * [Bans](enforcement/bans.md)
