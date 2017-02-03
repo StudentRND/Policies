@@ -27,10 +27,6 @@ Current StudentRND Policy Staff are:
 
 Policy Staff are responsible for maintaining this document. You should contact [policy@srnd.org](mailto:policy@srnd.org) with non-urgent questions or suggestions.
 
-# Rules Apply to All Staff
-
-No staff member is exempt from any rules or policies except as otherwise specified.
-
 # Reporting Enforcement
 
 All incidents MUST be reported before the end of the event, and SHOULD be reported as soon as possible after their conclusion.
