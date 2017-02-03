@@ -20,7 +20,13 @@ The following terms refer to specific sets of rules:
 
 # StudentRND Policy Staff
 
-Except as authorized below, any deviation from the published policies MUST first be reviewed by a member of the StudentRND Policy Team, which consists of the following people listed below:
+Deviations from must and must not policies MUST be pre-cleared by StudentRND Policy Staff.
+
+Deviations from should and should not policies MUST be cleared by at least a Code Evangelist, and MAY be cleared by StudentRND Policy Staff.
+
+All serious policy incidents, even where policy is followed, MUST be reported as soon as reasonable to StudentRND Policy Staff.
+
+Current StudentRND Policy Staff are:
 
 - Tyler Menezes, [tylermenezes@srnd.org](mailto:tylermenezes@srnd.org)
 - Zaq Wiedmann, [zaq@srnd.org](mailto:zaq@srnd.org)

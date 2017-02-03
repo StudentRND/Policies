@@ -1,7 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [Bans](bans.md)
-* [Searches](searches.md)
 * [Nuisances](nuisances.md)
+* [Searches](searches.md)
+* [Weapons](weapons.md)
+* [Bans](bans.md)
 

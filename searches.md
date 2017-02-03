@@ -1,5 +1,3 @@
-As part of the CodeDay event rules (CDER6), participants agree to searches under some conditions:
-
 > **CDER6. Searches**
 > To register for CodeDay, you must consent to StudentRND's search of your belongings if we have a reasonable suspicion that you are concealing a weapon, illegal or banned drugs or alcohol, or a stolen item.
 
