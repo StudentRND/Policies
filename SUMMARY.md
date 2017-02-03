@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Enforcement Options](enforcement.md)
+* [Enforcement](enforcement.md)
   * Removing Students
   * [Searches](searches.md)
   * [Bans](bans.md)
