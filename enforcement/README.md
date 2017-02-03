@@ -1,5 +1,7 @@
 # Enforcement Permission Levels
 
+For the purposes of these policies, the term "attendee" refers to everyone at the event. Additionally, several other terms will be used:
+
 ## Non-Staff
 
 Non-staff have no enforcement powers with regards to any StudentRND Policies. For the purposes of these rules, Mentors, Judges, Sponsors, Press, and VIPs are all considered non-staff.
