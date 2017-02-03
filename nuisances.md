@@ -29,7 +29,12 @@ Students with repeated violations MAY be removed from the event.
 
 # Disruptive Attendees
 
+> **CDER8. Please Don't Be Disruptive**
+> Attendees who are regularly and actively disruptive to others may be asked to leave.
 
+Attendees who are actively disruptive to others SHOULD be asked to calm down when the disruptive activity is first noticed. After three warnings, the attendee MAY be removed.
+
+Students who are disruptive as the result of a disability, where the disruption is not dangerous to others, MUST NOT be asked to leave, but SHOULD be moved to an area of the venue where they will not disrupt other students, and a staff member SHOULD be assigned to check on them regularly.
 
 # Alcohol and Drugs
 
