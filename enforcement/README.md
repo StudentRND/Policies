@@ -14,6 +14,8 @@ Regional Managers, Event Managers, and Code Evangelists MUST look for policy vio
 
 Code Evangelists SHOULD, if possible, be assigned to talk with students about violations, as they're trained for it. If a Code Evangelist is not available, other Level 2 Staff MAY talk with students about violations.
 
+For the purposes of these policies, anyone with a current Code Evangelist certification is included as a Code Evangelist, whether or not they are assigned to the specific event.
+
 ## StudentRND Policy Staff
 
 A set group of StudentRND staff able to authorize deviations from MUST/MUST NOT policies.
