@@ -23,3 +23,7 @@ Repeated offenders MUST be removed from the event.
 Students with a messy workspace SHOULD be encouraged to clean it up once the mess is noticed.
 
 Students with repeated violations MAY be removed from the event.
+
+# Alcohol and Drugs
+
+> **SCOC3b. Abstain from using or being under the influence of alcohol, marijuana, illicit substances, and recreational drugs.**

@@ -1,4 +1,4 @@
-> **SCOC 3a**
+> **SCOC3a**
 > Ensure the safety of yourself and others. Do not carry guns, knives, or other weapons. Deescalate conflicts when possible; get staff help when not.
 
 # Knives
