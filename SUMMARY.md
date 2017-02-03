@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-  * [Reporting Incidents](reporting-incidents.md)
 * [Enforcement Options](enforcement.md)
   * Removing Students
   * [Searches](searches.md)

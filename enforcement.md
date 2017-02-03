@@ -18,6 +18,12 @@ Code Evangelists SHOULD, if possible, be assigned to talk with students about vi
 
 A set group of StudentRND staff able to authorize deviations from MUST/MUST NOT policies.
 
+# Reporting Incidents
+
+All incidents MUST be reported before the end of the event, and SHOULD be reported as soon as possible after their conclusion.
+
+Please report incidents here: https://srnd.wufoo.com/forms/incident-report/
+
 # Rules Apply to All Staff
 
 No staff member is exempt from any rules or policies except as otherwise specified.
