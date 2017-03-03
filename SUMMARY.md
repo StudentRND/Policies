@@ -8,6 +8,7 @@
   * [Bans](enforcement/bans.md)
 * [Violations](violations/README.md)
   * [Violations Involving Staff](violations/staff.md)
+  * [Computers](violations/computers.md)
   * [Nuisances](violations/nuisances.md)
   * [Ineligible Attendees](violations/ineligible-attendees.md)
   * [Weapons](violations/weapons.md)
