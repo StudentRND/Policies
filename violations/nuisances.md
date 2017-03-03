@@ -43,7 +43,18 @@ Teams MUST NOT be removed from the event for refusing to participate in the comm
 
 When illegal downloading is observed by staff, the participant MUST be warned to stop illegal downloads. Staff SHOULD regularly walk by the offender's computer throughout the rest of the event to look for signs of illegal downloads.
 
-Repeated offenders MUST be removed from the event.
+Repeat offenders MUST be removed from the event.
+
+# Network Sniffing
+
+> **SCOC3**
+> At StudentRND events, keep things safe and legal.
+
+Attendees expect that their private data remains private at CodeDay. Additionally, sniffing the regular CodeDay network is probably a violation of the Federal Wiretap Act. (If attendees argue such behavior is legal, you MAY also cite CDER11, "Staff Have Final Say.")
+
+As a result, attendees observed using "Wifi Pineapples" and other sniffing technology MUST be warned to stop. Repeat offenders SHOULD be removed from the event.
+
+Attendees using wifi sniffing for CodeDay projects SHOULD be allowed to do so on their own network.
 
 # Alcohol and Drugs
 
