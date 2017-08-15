@@ -6,20 +6,23 @@ This document describes internal StudentRND policies for dealing with issues. St
 
 Several terms, used in uppercase, have the meanings defined in RFC 2119:
 
-- **MUST, REQUIRED, or SHALL:** An absolute requirement.
-- **MUST NOT or SHALL NOT:** An absolute prohibition.
-- **SHOULD or RECOMMENDED:** There may exist valid reasons in particular circumstances to ignore a particular item, but the full implications must be understood and carefully weighed before choosing a different course.
-- **SHOULD NOT or NOT RECOMMENDED:** There may exist valid reasons in particular circumstances when the particular behavior is acceptable or even useful, but the full implications should be understood and the case carefully weighed before implementing any behavior described with this label.
-- **MAY or OPTIONAL:** Truly optional, only a suggestion.
+* **MUST, REQUIRED, or SHALL:** An absolute requirement.
+* **MUST NOT or SHALL NOT:** An absolute prohibition.
+* **SHOULD or RECOMMENDED:** There may exist valid reasons in particular circumstances to ignore a particular item, but the full implications must be understood and carefully weighed before choosing a different course.
+* **SHOULD NOT or NOT RECOMMENDED:** There may exist valid reasons in particular circumstances when the particular behavior is acceptable or even useful, but the full implications should be understood and the case carefully weighed before implementing any behavior described with this label.
+* **MAY or OPTIONAL:** Truly optional, only a suggestion.
+
+For ease of reading, all but absolute requirements and prohibitions are presented in normal case.
 
 # Rule Basis
 
 The following rules apply to some or all StudentRND events:
 
-- **SCOC:** [StudentRND Code of Conduct,](https://srnd.org/conduct) applicable to all community members. Some aspects apply outside of CodeDay.
-- **CDER:** [CodeDay Event Rules,](https://codeday.org/rules) applicable to all CodeDay attendees.
-- **CDWR:** [CodeDay Award Rules,](https://codeday.org/rules) applicable to teams competing for "Top Overall," "Best App," and "Best Game" at CodeDay. (Violations of these rules SHOULD NOT lead to punishment other than disqualification from those awards.)
+* **SCOC:** [StudentRND Code of Conduct,](https://srnd.org/conduct) applicable to all community members. Some aspects apply outside of CodeDay.
+* **CDER:** [CodeDay Event Rules,](https://codeday.org/rules) applicable to all CodeDay attendees.
+* **CDWR:** [CodeDay Award Rules,](https://codeday.org/rules) applicable to teams competing for "Top Overall," "Best App," and "Best Game" at CodeDay. \(Violations of these rules SHOULD NOT lead to punishment other than disqualification from those awards.\)
 
-# Life-or-Death Exception
+# Emergencies
 
-In cases of life-or-death, any deviation from these policies to protect life is authorized and SHOULD be taken.
+In cases of life-or-death or other emergencies, any deviation from these policies to protect life should be taken.
+
