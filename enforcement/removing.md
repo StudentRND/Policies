@@ -1,4 +1,4 @@
-As a result of a violation, all attendees MAY be asked to leave the event.
+As a result of a violation, all attendees may be asked to leave the event.
 
 When asking an attendee to leave, staff should immediately have the attendee pack up their things, and should move the packed-up things to a secure area until the attendee is ready to go.
 

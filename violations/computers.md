@@ -25,7 +25,7 @@ Repeat offenders MUST be removed from the event.
 
 Attendees expect that their private data remains private at CodeDay. Additionally, sniffing the regular CodeDay network is probably a violation of the Federal Wiretap Act. \(If attendees argue such behavior is legal, you MAY also cite CDER11, "Staff Have Final Say."\)
 
-As a result, attendees observed using "Wifi Pineapples" and other sniffing technology MUST be warned to stop. Repeat offenders SHOULD be removed from the event.
+As a result, attendees observed using "Wifi Pineapples" and other sniffing technology MUST be warned to stop. Repeat offenders should be removed from the event.
 
-Attendees using wifi sniffing for CodeDay projects SHOULD be allowed to do so on their own network.
+Attendees using wifi sniffing for CodeDay projects should be allowed to do so on their own network.
 
