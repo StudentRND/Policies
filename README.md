@@ -4,7 +4,7 @@ This document describes internal policies for dealing with issues. Staff, volunt
 
 ## Requirements
 
-Certain policies have very specific requirements describing in which circumstances things do or do not happen:
+For clarity, we use the following definitions for these words:
 
 * **MUST, REQUIRED, SHALL/MUST NOT, SHALL NOT:** An absolute requirement or prohibition. \(In all-caps for added visibility.\)
 * **Should or recommended:** There may exist valid reasons in particular circumstances to ignore a particular item, but the full implications must be understood and carefully weighed before choosing a different course.
