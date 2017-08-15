@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Who May Respond?](who-may-respond.md)
-* [Procedure](//incident-response.md)
+* [Procedure](/procedure.md)
 * [Violations](violations/README.md)
   * [Violations Involving Staff](violations/staff.md)
   * [Computers](violations/computers.md)
