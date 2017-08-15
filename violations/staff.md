@@ -6,3 +6,7 @@ The violation MUST be investigated by at least two other staff members \(if at l
 
 The facts MUST be reviewed by the Policy Team, and the punishment MUST be determined by the Policy Team.
 
+# Greater Scrutiny for Staff and Mentors
+
+SCOC1a-c may be applied to the public behavior of staff and mentors, even when such behavior takes place outside of an event.
+
