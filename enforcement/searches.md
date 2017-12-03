@@ -1,8 +1,3 @@
-> **CDER6. Searches**  
-> To register for CodeDay, you must consent to srnd.org's search of your belongings if we have a reasonable suspicion that you are concealing a weapon, illegal or banned drugs or alcohol, or a stolen item.
-
-## Searches Only for Stolen Property
-
 The purpose of this policy is to recover stolen property in cases where there is an abundance of evidence suggesting who stole it.
 
 Searches MUST only be conducted for stolen property of significant value.
